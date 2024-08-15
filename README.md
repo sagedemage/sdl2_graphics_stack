@@ -119,6 +119,9 @@ List of drivers that the video portion of SDL2 supports.
 - https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_internal.h
 - https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_utils.c
 
+### FAQ: Using SDL
+- https://wiki.libsdl.org/SDL2/FAQUsingSDL
+
 ### Pandora
 - https://openpandora.org/
 
