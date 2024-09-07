@@ -105,36 +105,36 @@ List of drivers that the video portion of SDL2 supports.
 ## Resources
 ### SDL2 Source Code
 **Render Source Code**
-- https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_render.h 
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_render.c
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_sysrender.h
+- [https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_render.h](https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_render.h)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_render.c](https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_render.c)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_sysrender.h](https://github.com/libsdl-org/SDL/blob/SDL2/src/render/SDL_sysrender.h)
 
 **Video Source Code**
-- https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_video.h
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_video.c
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_sysvideo.h
+- [https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_video.h](https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_video.h)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_video.c](https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_video.c)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_sysvideo.h](https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_sysvideo.h)
 
 **Vulkan Source Code**
-- https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_vulkan.h
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_internal.h
-- https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_utils.c
+- [https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_vulkan.h](https://github.com/libsdl-org/SDL/blob/SDL2/include/SDL_vulkan.h)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_internal.h](https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_internal.h)
+- [https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_utils.c](https://github.com/libsdl-org/SDL/blob/SDL2/src/video/SDL_vulkan_utils.c)
 
 ### FAQ: Using SDL
-- https://wiki.libsdl.org/SDL2/FAQUsingSDL
+- [https://wiki.libsdl.org/SDL2/FAQUsingSDL](https://wiki.libsdl.org/SDL2/FAQUsingSDL)
 
 ### Pandora
-- https://openpandora.org/
+- [https://openpandora.org/](https://openpandora.org/)
 
 ### NaCL (discontinued)
-- https://en.wikipedia.org/wiki/Google_Native_Client
+- [https://en.wikipedia.org/wiki/Google_Native_Client](https://en.wikipedia.org/wiki/Google_Native_Client)
 
 ### Vivante Corporation
-- https://en.wikipedia.org/wiki/Vivante_Corporation
-- https://verisilicon.com/en/IPPortfolio/VivanteGPUIP
+- [https://en.wikipedia.org/wiki/Vivante_Corporation](https://en.wikipedia.org/wiki/Vivante_Corporation)
+- [https://verisilicon.com/en/IPPortfolio/VivanteGPUIP](https://verisilicon.com/en/IPPortfolio/VivanteGPUIP)
 
 ### EGL
-- https://en.wikipedia.org/wiki/EGL_(API)
+- [https://en.wikipedia.org/wiki/EGL_(API)](https://en.wikipedia.org/wiki/EGL_(API))
 
 ### Mesa
-- https://en.wikipedia.org/wiki/Mesa_(computer_graphics)
+- [https://en.wikipedia.org/wiki/Mesa_(computer_graphics)](https://en.wikipedia.org/wiki/Mesa_(computer_graphics))
 
